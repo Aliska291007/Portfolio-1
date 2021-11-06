@@ -1,6 +1,12 @@
 body{
   margin: 0;
 }
+li{
+  margin: 0;
+}
+ul{
+  margin: 0%;
+}
 
 .header{
   width: 100%;
@@ -94,7 +100,6 @@ text-align: center;
   align-items: center;
   text-align: center;
   padding: 40px;
-
 }
 .pict{
  text-decoration: none;
