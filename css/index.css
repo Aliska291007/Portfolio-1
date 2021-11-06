@@ -69,7 +69,6 @@ text-align: center;
 .portfolio{
   width: 100%;
   height: 600px;
-
   
 }
 .text{
@@ -95,6 +94,7 @@ text-align: center;
   align-items: center;
   text-align: center;
   padding: 40px;
+
 }
 .pict{
  text-decoration: none;
@@ -105,7 +105,7 @@ text-align: center;
  text-align: center;
 }
 .work-clean-typograph, .work-rock-solid-code, .work-expert-support{
-  padding: 80px;
+  padding: 20px;
 }
 .footer{
   width: 100%;
