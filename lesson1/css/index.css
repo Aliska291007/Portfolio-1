@@ -1,6 +1,12 @@
 body{
   margin: 0;
 }
+li{
+  margin: 0;
+}
+ul{
+  margin: 0%;
+}
 
 .header{
   width: 100%;
@@ -94,7 +100,6 @@ text-align: center;
   align-items: center;
   text-align: center;
   padding: 40px;
-  margin: 20px 20px 20px 250px
 }
 .pict{
  text-decoration: none;
@@ -105,7 +110,7 @@ text-align: center;
  text-align: center;
 }
 .work-clean-typograph, .work-rock-solid-code, .work-expert-support{
-  padding: 80px;
+  padding: 20px;
 }
 .footer{
   width: 100%;
