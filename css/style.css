@@ -1,0 +1,56 @@
+body{
+    margin: 0;
+}
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+}
+.header{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(98, 199, 165);
+    
+    display: flex; 
+    flex-direction: column;
+    
+    justify-content: center;
+    align-items: center;
+}
+
+.title{
+    color: rgb(250, 190, 190);
+
+}
+.center{
+    width: 100%;
+   height: 100vh;
+    
+}
+ul{
+    position:relative;
+    top: 50px;
+}
+.link{
+    text-decoration: none;
+}
+.lesson{
+    margin: 20px 0px 0px;
+}
+.footer{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(98, 199, 165);
+}
+.logo{
+    width: 100px;
+    height: 100px;
+    background-image: url(./../style/logo.jpg);
+    background-size: cover;
+    background-position: center;
+
+    position: absolute;
+    top: 20px;
+    left: 40px;
+
+    border-radius: 100%;
+    border: 2px rgb(10, 149, 196) solid;
+}
