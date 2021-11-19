@@ -1,6 +1,6 @@
 body{
     margin: 0;
-    background-color: rgb(170, 170, 170);
+    background-color: #9FADB2;
 }
 .link-user{
     width: 900px;
@@ -94,5 +94,11 @@ justify-content: flex-start;
     color: blue;
     text-decoration: none;
 }
-
-
+.llast-of-type{
+    text-decoration: none;
+    color: black;
+}
+.paragrah{
+    text-decoration: none;
+    font-size: 18px;
+}
